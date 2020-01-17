@@ -1,2 +1,5 @@
+
 # The second Git Lab
-## Seconf Team Member: Gerald McGee
+## First Team Member: Eddy Qiu
+Second team member: Gerald McGee
+This is a C++ example project
