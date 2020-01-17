@@ -26,6 +26,6 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 5. die.cc	first-answers.md  README.md  second-answers.md	texttwo.txt
 6. first-answers.md  README.md  second-answers.md	texttwo.txt
-7. The die.cc file is not in the master branch.
+7. The die.cc file is not in the master branch.  Done
 
 
