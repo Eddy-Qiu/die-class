@@ -10,3 +10,9 @@
 Second team member: Gerald McGee
 This is a C++ example project
 >>>>>>> 1eae16cf3b4a396e1c826f69fdd218cefdf93110
+
+
+
+A couple 
+of lines 
+of text
