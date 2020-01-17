@@ -19,4 +19,13 @@ hint: Updates were rejected because the tip of your current branch is behind
 hint: its remote counterpart. Integrate the remote changes (e.g.
 hint: 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+3. * master
+4. 
+* implement
+  master
+
+5. die.cc	first-answers.md  README.md  second-answers.md	texttwo.txt
+6. first-answers.md  README.md  second-answers.md	texttwo.txt
+7. The die.cc file is not in the master branch.
+
 
