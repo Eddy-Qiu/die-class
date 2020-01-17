@@ -1,7 +1,7 @@
 /*
  * Author: Eddy Qiu
  * Date: 1/17/20
- * Description: first lab program
+ * Description: first lab program.
  */
 #include <iostream>
 #include <iomanip>
